@@ -25,7 +25,6 @@
 
 <div align="center">
 
-![Andre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreRCRO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f85149&text_color=c9d1d9&border_radius=10)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreRCRO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=10)
 
