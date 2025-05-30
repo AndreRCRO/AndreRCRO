@@ -52,7 +52,7 @@ const andre = {
 
 ---
 
-## 📈 Actividad reciente
+## Actividad reciente
 
 <div align="center">
 
