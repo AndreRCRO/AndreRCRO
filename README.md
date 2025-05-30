@@ -45,8 +45,8 @@ const andre = {
     code: ["C#", "Java", "HTML", "CSS", "JavaScript", "PHP"],
     focus: "Frontend Development",
     projects: ["Web Applications", "Mobile Apps", "Creative Projects"],
-    learning: "Advanced Frontend Techniques",
-    funFact: "Me inspiro en los RPG para crear interfaces interactivas"
+    learning: "Frontend Techniques",
+    funFact: "Me inspiro en los videojuegos para crear proyectos nuevos"
 };
 ```
 
